@@ -15,7 +15,7 @@ This demo project showcases interactive dashboard development and data visualiza
 - **Data Insights**: Gain insights into how economic factors affect life quality across different countries and years.      
 - **ML Prediction Tool**: Random Forest model to predict life expectancy based on GDP and poverty levels, with real-time predictions displayed in the app.
 
-Installation and setup instructions are provided in the repository to help you get started quickly.
+Installation and setup instructions are provided in the repository to help you get started quickly:
 ```python
 git clone https://github.com/assel-nyc/streamlit.git 
 cd streamlit
@@ -23,13 +23,14 @@ pip install -r requirements.txt
 streamlit run practical.py
 
 ```
-**Usage **
+Usage
 **Run the App and navigate through three main tabs**
 - Global Overview: View yearly trends and test ML predictions.
 - Country Analysis: Select a country to explore its specific data.
 - Data Insights: Browse and filter the raw dataset for deeper analysis
 
 **Dataset**
+
 GDP per capita by country and year
 Life expectancy by country and year
 Poverty rate by country and year
